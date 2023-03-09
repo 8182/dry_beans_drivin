@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  route: one
+  service_type: MyString
+  service_time: 2023-03-09 11:51:22
+  client_name: MyString
+
+two:
+  route: two
+  service_type: MyString
+  service_time: 2023-03-09 11:51:22
+  client_name: MyString
